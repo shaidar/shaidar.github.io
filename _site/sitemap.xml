@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  
+  <url>
+    <loc>http://localhost:4000/siris-three-phases-of-enlightenment/</loc>
+    
+    <lastmod>2011-11-07T14:00:00-05:00</lastmod>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:4000/speaking-in-code/</loc>
+    
+    <lastmod>2011-10-25T20:29:00-04:00</lastmod>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:4000/vdi-centralizing-while-decentralizing/</loc>
+    
+    <lastmod>2011-03-05T13:14:00-05:00</lastmod>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:4000/iapple/</loc>
+    
+    <lastmod>2010-10-23T15:51:00-04:00</lastmod>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:4000/from-desks-to-data-centers/</loc>
+    
+    <lastmod>2010-09-21T12:41:00-04:00</lastmod>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:4000/who-is-in-charge/</loc>
+    
+    <lastmod>2010-06-27T18:31:00-04:00</lastmod>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:4000/iphone-and-the-curated-computing-experience/</loc>
+    
+    <lastmod>2010-06-21T21:46:00-04:00</lastmod>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:4000/what-is-real/</loc>
+    
+    <lastmod>2010-03-08T11:26:00-05:00</lastmod>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:4000/application-virtualization-a-higher-education-reality/</loc>
+    
+    <lastmod>2010-01-31T16:41:00-05:00</lastmod>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:4000/apple-education-licensing-program/</loc>
+    
+    <lastmod>2009-12-03T22:10:00-05:00</lastmod>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:4000/virtuality/</loc>
+    
+    <lastmod>2009-11-30T20:16:00-05:00</lastmod>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:4000/federation-and-vdi/</loc>
+    
+    <lastmod>2009-11-08T19:24:00-05:00</lastmod>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:4000/why-softgrid-app-v/</loc>
+    
+    <lastmod>2008-09-14T16:31:00-04:00</lastmod>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:4000/software-anywhere-anytime/</loc>
+    
+    <lastmod>2008-09-10T18:06:00-04:00</lastmod>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  
+  <url>
+    <loc>http://localhost:4000/</loc>
+    <lastmod>2014-09-18T21:18:14-04:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:4000/theme-setup/</loc>
+    <lastmod>2014-09-18T21:18:14-04:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:4000/posts/</loc>
+    <lastmod>2014-09-18T21:18:14-04:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:4000/about/</loc>
+    <lastmod>2014-09-18T21:18:14-04:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  
+  
+</urlset>

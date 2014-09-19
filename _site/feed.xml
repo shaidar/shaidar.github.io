@@ -1,0 +1,514 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+<title type="text">LaYers</title>
+<generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
+<link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml" />
+<link rel="alternate" type="text/html" href="http://localhost:4000" />
+<updated>2014-09-18T21:18:14-04:00</updated>
+<id>http://localhost:4000/</id>
+<author>
+  <name>Sar Haidar</name>
+  <uri>http://localhost:4000/</uri>
+  
+</author>
+
+
+  
+
+<entry>
+  <title type="html"><![CDATA[Siri's Three Phases of Enlightenment]]></title>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/siris-three-phases-of-enlightenment/" />
+  <id>http://localhost:4000/siris-three-phases-of-enlightenment</id>
+  <published>2011-11-07T14:00:00-05:00</published>
+  <updated>2011-11-07T14:00:00-05:00</updated>
+  <author>
+    <name>Sar Haidar</name>
+    <uri>http://localhost:4000</uri>
+    
+  </author>
+  <content type="html">&lt;p&gt;When the iPhone 4S came out, I was truly amazed by the &lt;a href=&quot;http://www.computerworld.com/s/article/9220568/Buzz_kill_Online_reaction_to_iPhone_4S_trends_negative&quot;&gt;overall disappointment that people expressed&lt;/a&gt;. Personally, I went on a whirlwind journey that I’m labeling, &lt;a href=&quot;http://www.apple.com/ios/siri/&quot;&gt;‘Siri’s&lt;/a&gt; Three Phases of Enlightenment’ and am here to share.  &lt;/p&gt;
+
+&lt;h4 id=&quot;st-phase--siri-redefines-human-machine-interaction&quot;&gt;1st Phase – Siri, redefines Human-Machine Interaction!&lt;/h4&gt;
+
+&lt;p&gt;My first reaction after seeing Siri on the iPhone 4S was that Apple’s at it again, redefining human-machine interaction. They started the touch-based device movement a few years back that Microsoft, Google, Amazon and others adopted. Touch-based devices have become ubiquitous and the first thing consumers do when trying out a new gadget is touching the screen. Microsoft has gone so far into introducing that technology in their yet-to-come Windows 8. With Siri, Apple is moving us beyond touch-based interaction and into a more natural means of interaction, that being spoken language. Apple did not invent touch-based technology and neither did they invent voice-recognition, but they’re masters at implementing and integrating technology into their products. So, as I watched the online presentation of the iPhone 4S release and the unveiling of Siri, I saw the dawn of a new movement. A movement that will again redefine human-machine interaction just like its predecessor.&lt;/p&gt;
+
+&lt;h4 id=&quot;nd-phase--siri-and-its-workings&quot;&gt;2nd Phase – Siri and its workings&lt;/h4&gt;
+
+&lt;p&gt;As consumers got their hands on the iPhone 4S and reports started flowing in about Siri, my curiosity led me to investigate how Siri did its magic. After some digging around, I realized that there’s more to Siri than meets the eye. It’s not only meant to redefine human-machine interaction, but it’s also meant to target Google services through non-generic search. There’s been a lot of talk lately about the impact on Google search and I think this PCWorld article, &lt;a href=&quot;http://www.pcworld.com/article/243277/siri_as_google_challenger_sorting_fact_from_fiction.html&quot;&gt;“Siri as Google Challenger sorting fact from fiction”&lt;/a&gt; handles it well. Typically, Siri uses Google as its default search engine for generic questions, but when it comes to non-generic search like location-based questions or calculations, Siri turns to different online resources such as Wolfram Alpha or Yelp for example to answer questions. In short, i agree with the article linked above that Siri isn’t taking Google out of the search business, but when it comes to non-generic search, it sure seems to be changing the dynamic.&lt;/p&gt;
+
+&lt;h4 id=&quot;rd-phase--levels-of-abstraction&quot;&gt;3rd Phase – Levels of abstraction&lt;/h4&gt;
+
+&lt;p&gt;Siri, set my alarm for tomorrow at 5am. Siri, what time is it in Berlin? … The more we interact with Siri and order it to do some tasks, the less we will interact with the underlying layers. Siri will slowly establish itself as our intermediary, our go-to assistant. As long as it keeps doing our biding to our satisfaction, the less we will care about its workings and the layers/services it interacts with to achieve those results. I believe the natural progression of this will be that we will lose the ability and know-how of handling those simple tasks on our own. Apps will be designed with API’s for Siri interaction and slowly shed the unnecessary end-user interface. In addition, the amount of data and more importantly the multitude of interactions between different systems/apps to accomplish a specific task, will be so complex, that it’ll be best to let the ‘computers do their thing’. This reminds me of a 60 Minutes segment about &lt;a href=&quot;http://www.cbsnews.com/stories/2010/10/07/60minutes/main6936075.shtml&quot;&gt;“How Speed Traders are changing Wall Street”&lt;/a&gt; where we see the results and conclusions, but have no idea how we’ve reached them. In other words, Siri is out to not only redefine human-computer interaction, but it brings about computer-to-computer (and app-to-app) interaction and sets itself up as our chosen intermediary with any future online interactions. With an offer to assist, Siri inserts itself between us and everything/everyone we digitally interact with. So, ‘Siri, turn up the heat’, might be a possibility as home appliances go online, or ‘Siri, if I’m out of beer, remind me to buy some after work’ is yet another one.&lt;br /&gt;
+&lt;br /&gt;
+Siri, over and out!&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/siris-three-phases-of-enlightenment/&quot;&gt;Siri's Three Phases of Enlightenment&lt;/a&gt; was originally published by Sar Haidar at &lt;a href=&quot;http://localhost:4000&quot;&gt;LaYers&lt;/a&gt; on November 07, 2011.&lt;/p&gt;</content>
+</entry>
+
+
+  
+
+<entry>
+  <title type="html"><![CDATA[Speaking in Code]]></title>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/speaking-in-code/" />
+  <id>http://localhost:4000/speaking-in-code</id>
+  <published>2011-10-25T20:29:00-04:00</published>
+  <updated>2011-10-25T20:29:00-04:00</updated>
+  <author>
+    <name>Sar Haidar</name>
+    <uri>http://localhost:4000</uri>
+    
+  </author>
+  <content type="html">&lt;p&gt;I’m a fairly technical guy and naturally a lot of the meetings i attend revolve around computer technology and such. So, i was in one such meeting the other day with a few people that i haven’t met before. Ofcourse everyone was busy staring at their phones, pads or laptops. A few topics were discussed and then it happened. One of the guys in there while describing his work, started to spurt out the exact code that he wrote to solve one of the problems, word for word, slash for slash. The funny part came in when another guy interjected and corrected him because he missed a semicolon which made a few of us in the room burst into laughter. I’m sure some of you have experienced this before and i’m not trying to undermine code writers or people that pay attention to detail cause when writing code, a semicolon can make or break your program. That interchange stuck in my mind for a few weeks, cause i felt there’s some significance to it that i couldn’t decipher yet. But i think i finally got it!&lt;br /&gt;
+&lt;br /&gt;
+I was heading to work this morning and along my way to pick up some, one of the stores had a board outside, ‘instructing’ us how to order a salad. A salad became an algorithm. Sure recipes have been here forever and those can be considered algorithms, but what happened to just a plain salad? Or coffee? Or a burger? Have you noticed how more and more places have been breaking things down into their constituent parts. This is not a necessarily new practice since Dell and others have been doing something like that for a while now, but that method has spilled over into our everyday life now. So, to order a burger, you look at the menu and it’s a recipe. You choose the type of bread, meet, cheese, condiments … We all have different tastes and with the rise of the society of individuals, businesses have to adjust and cater to those needs, but there’s more to it. The slow prevalence of this algorithmic approach is expanding Toffler’s idea of a “prosumer” or proactive consumer and replacing cashiers with machines. I’m not against efficiency and progress, but what are the repercussions?&lt;br /&gt;
+&lt;br /&gt;
+This is slowly and unconsciously moving us into looking and thinking about things in a process driven fashion. We might not realize it now, but the more we interact with that ‘system’ the more we adjust our thinking and behavior to fit that system. I’m pretty positive that most people have had to change the way something is done due to some software program restriction. Twitter is a simple example. I really like twitter as a lot of people do, but have you stopped to think how we’re adjusting our train of thought to make sure it’s within the 140-character limit? In the last tweet you posted, did you not end up using a different word from the one you wanted because the other word was already hash-tagged and what the heck, it’s close enough?&lt;br /&gt;
+&lt;br /&gt;
+Most movies and doomsday scenarios show how machines one day will surpass human intelligence and enslave us. That’s an interesting take, but I think there’s a flipside to that coin. I think the fear is that we lose ourselves along the way and turn into the exact machines that we are afraid of!&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/speaking-in-code/&quot;&gt;Speaking in Code&lt;/a&gt; was originally published by Sar Haidar at &lt;a href=&quot;http://localhost:4000&quot;&gt;LaYers&lt;/a&gt; on October 25, 2011.&lt;/p&gt;</content>
+</entry>
+
+
+  
+
+<entry>
+  <title type="html"><![CDATA[VDI, Centralizing While Decentralizing]]></title>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/vdi-centralizing-while-decentralizing/" />
+  <id>http://localhost:4000/vdi-centralizing-while-decentralizing</id>
+  <published>2011-03-05T13:14:00-05:00</published>
+  <updated>2011-03-05T13:14:00-05:00</updated>
+  <author>
+    <name>Sar Haidar</name>
+    <uri>http://localhost:4000</uri>
+    
+  </author>
+  <content type="html">&lt;p&gt;VDI abstracts the hardware, virtualizes the OS and apps, and redirects the data. So, VDI centralizes the desktop while decentralizing the individual desktop layers within the datacenter.&lt;br /&gt;
+&lt;br /&gt;
+That’s a mouthful and it sure sounds complicated but in reality it’s not. Let me pull the divide and conquer technique to make sense of things. Some people believe that VDI is no more than moving the desktop to to the data center. I previously wrote about &lt;a href=&quot;/from-desks-to-data-centers&quot;&gt;VDI and the new Virtual Order&lt;/a&gt; challenging that notion. I’m here again to provide yet another perspective on why VDI is more than simply moving your desktop to the data center. VDI takes a layered approach to the desktop and divides it into four major layers: &lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Hardware&lt;/li&gt;
+  &lt;li&gt;OS&lt;/li&gt;
+  &lt;li&gt;Apps/Software&lt;/li&gt;
+  &lt;li&gt;Data - User &amp;amp; Application  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Given that layered approach, let’s tackle the opening statement:
+&lt;br /&gt; 
+&lt;strong&gt;VDI abstracts the hardware&lt;/strong&gt; by moving the desktop into the data center and granting the user the ability to access it from anywhere and from practically any device (vendor/protocol related).&lt;br /&gt;
+&lt;br /&gt;
+&lt;strong&gt;Virtualizes the OS and apps&lt;/strong&gt; by mainly running the OS (Windows, Linux … ) as a Virtual Machine on servers housed in the data center. In addition, in most instances (not all apps can be virtualized at this point), it keeps the OS layer separate from the apps layer through application virtualization.&lt;br /&gt;
+&lt;br /&gt;
+&lt;strong&gt;Redirects Data&lt;/strong&gt; by means of folder redirection in its simplest implementation and there are lots of rumblings now about User Virtualization. User and Application Data are stored on file servers within the data center.&lt;br /&gt;
+&lt;br /&gt;
+Through the layered approach, VDI has centralized the desktop by abstracting the first layer (hardware), virtualizing layer two and three (OS and Apps) and redirecting the data, layer four (data).&lt;br /&gt;
+&lt;br /&gt;
+VDI centralizes the desktop while decentralizing the individual desktop layers within the datacenter.&lt;br /&gt;
+&lt;br /&gt;
+Through VDI, the desktop exists centrally in the data center, but due to the layered approach discussed above, the layers themselves exist in different areas of the data center. In that sense one can view VDI as virtual assembly of Desktops on login since all the different layers come together as soon as the end user logs in. &lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/vdi-centralizing-while-decentralizing/&quot;&gt;VDI, Centralizing While Decentralizing&lt;/a&gt; was originally published by Sar Haidar at &lt;a href=&quot;http://localhost:4000&quot;&gt;LaYers&lt;/a&gt; on March 05, 2011.&lt;/p&gt;</content>
+</entry>
+
+
+  
+
+<entry>
+  <title type="html"><![CDATA[iApple]]></title>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/iapple/" />
+  <id>http://localhost:4000/iapple</id>
+  <published>2010-10-23T15:51:00-04:00</published>
+  <updated>2010-10-23T15:51:00-04:00</updated>
+  <author>
+    <name>Sar Haidar</name>
+    <uri>http://localhost:4000</uri>
+    
+  </author>
+  <content type="html">&lt;p&gt;“Apple’s not ready for the Enterprise”, a phrase my co-workers are quite familiar with as I kept on blurting it with frustration from my cube this Spring while I was testing solutions for deploying and managing 100+ Macs. Throughout my years of dealing with different vendors, Apple always struck me as standoffish. Where other vendors would shower you with freebies and discounts at the sound of a possible increase in sales, Apple never budged. So, how can a company with that attitude be getting close to surpassing Exxon as World’s most valuable company?&lt;br /&gt;
+&lt;br /&gt;
+Naturally there’s a lot of chatter about this with all sorts of financial analysis and discussions about the emergence of mobile computing. Everyone’s providing numbers and ideas to explain the rise of Apple to those unprecedented levels. As a consumer of Apple products, I can’t ignore Apple’s ingenuity, breathtaking designs and attention to functionality. I’ve experienced this first hand with my dad, who’s never bothered with using a computer before being introduced to the iPad and now it doesn’t leave his side. Not to undermine all this, but there’s an undercurrent that I think has been missed or hasn’t been talked about when talking about the success that Apple has achieved this decade.&lt;/p&gt;
+
+&lt;h4 id=&quot;whats-in-a-name&quot;&gt;What’s in a name?&lt;/h4&gt;
+
+&lt;p&gt;When the &lt;a href=&quot;http://www.youtube.com/watch?v=0BHPtoTctDY&quot;&gt;first iMac was introduced in 1998&lt;/a&gt;, Steve Jobs said that the ‘i’ in iMac stood for: “The excitement of the internet”.  He also went on to say that i is for “internet, individual, instruct, inform, inspire”. I for Individual! Apple didn’t adapt its products or invest heavily in tools to ease enterprise deployment because they already foresaw the demise of that model. I’ve previously written about this in &lt;a href=&quot;/from-desks-to-data-centers&quot;&gt;my last post&lt;/a&gt;. Apple didn’t go after the enterprise because they felt the sweeping undercurrent and designed their line of products accordingly. They rode that Wave to tremendous success. iMac, iPod, iPhone, iPad … the i Wave!&lt;/p&gt;
+
+&lt;h4 id=&quot;wave&quot;&gt;Wave!&lt;/h4&gt;
+
+&lt;p&gt;In here I have to borrow from the Tofflers and their work discussing &lt;a href=&quot;http://www.amazon.com/Revolutionary-Wealth-Alvin-Toffler/dp/0375401741/ref=sr_1_1?s=books&amp;amp;ie=UTF8&amp;amp;qid=1287865497&amp;amp;sr=1-1&quot;&gt;wealth systems&lt;/a&gt;. According to the Tofflers, the first wealth system or wave was the introduction of agriculture that produced a way to create wealth and was known as the agrarian civilization. The second wealth system brought “mass production, mass education, mass media and mass culture”. The second wave was built on “principles of standardization, specialization, synchronization … “.  “Where the Second Wave wealth system brought massification, the Third Wave de-massifies production, markets and society” (Alvin &amp;amp; Heidi Toffler, Revolutionary Wealth, Kindle Chapter 3).&lt;br /&gt;
+&lt;br /&gt;
+Each wave or wealth system impacted society and its nucleus, the family. A family during the agrarian period was what now label as the extended family. The father, mother, children, aunts, uncles, cousins, grandparents … With the rise of industrialization and the arrival of the second wave, the family shrunk and we had the nuclear family composed of father, mother, and children. With the arrival of the third wave, we start to recognize a diversity of family formats and the focus shifts to the individual.&lt;br /&gt;
+&lt;br /&gt;
+So, it’s not about whether Apple’s ready for the enterprise or not, because the enterprise itself is redefining its relationship with the individual and formulating a new model of interacting and supporting those individuals. Apple saw the approaching wave, anchored their product line to revolve around the individual and are currently reaping what they sow.&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/iapple/&quot;&gt;iApple&lt;/a&gt; was originally published by Sar Haidar at &lt;a href=&quot;http://localhost:4000&quot;&gt;LaYers&lt;/a&gt; on October 23, 2010.&lt;/p&gt;</content>
+</entry>
+
+
+  
+
+<entry>
+  <title type="html"><![CDATA[From Desks to Data Centers]]></title>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/from-desks-to-data-centers/" />
+  <id>http://localhost:4000/from-desks-to-data-centers</id>
+  <published>2010-09-21T12:41:00-04:00</published>
+  <updated>2010-09-21T12:41:00-04:00</updated>
+  <author>
+    <name>Sar Haidar</name>
+    <uri>http://localhost:4000</uri>
+    
+  </author>
+  <content type="html">&lt;p&gt;Stop! Take your eyes off of the screen and look around you! Observe your surroundings! What do you see? A man with a laptop, listening to his iPod and texting away on his smartphone. A group of students each with their own laptop studying, and checking their phones every few minutes for that all important text message. A man staring at his laptop with a bluetooth headset glued to his ear, completely oblivious to his surroundings, discussing a powerpoint presentation. A woman sitting in a comfy chair, legs propped up, playing on her new and shiny iPad while her husband next to her is reading on his kindle. People interacting with technology. Laptops, tablets, smart-phones, music players, game consoles, e-readers ….&lt;br /&gt;
+&lt;br /&gt;
+Where does the enterprise desktop model stand in this sea of change?&lt;br /&gt;
+&lt;br /&gt;
+I’m not announcing the death of that model as we know it in the foreseeable future since i’m a believer in the existence of an amalgam of interacting technologies. However, I’m constantly baffled with the constant chatter about Virtual Desktop Infrastructure or VDI. Companies that went down the server virtualization path in prior years are hoping to have similar success with VDI, but desktops aren’t servers and what worked in server virtualization may not necessarily apply to desktop virtualization. Current research has shown the impact of desktop virtualization on storage design and i strongly recommend reading the following &lt;a href=&quot;http://www.virtuall.nl/download-document/vdi-storage-deep-impact&quot;&gt;paper&lt;/a&gt; for anyone interested in a VDI implementation. So, what’s the point of spending all this time and effort in migrating a fading model from desks to data centers? With the fast evolution of application stores and marketplaces, the mushrooming of SaaS (Software-as-a-Service) providers, and the increased abilities of web browsers, why are we trying to revive a decaying model and do we honestly believe that moving the desktop to the data center is part of its evolution?&lt;br /&gt;
+&lt;br /&gt;
+In trying to answer those questions it finally dawned on me that it’s not about the ‘VD’ in VDI and instead it’s all about the ‘I’. I for Infrastructure. I for personalization. I for the individual. Any proper VDI implementation consciously or unconsciously decouples user data and apps from the OS layer. User data will be housed on an enterprise storage solution and applications will be virtualized when possible or evolved into Web Apps. The decoupling of data and apps from the underlying OS will provide enterprises the control they want and grant them the flexibility of outsourcing some aspects of the enterprise into a public or private cloud. In other words, virtualizing desktops isn’t really an end in itself, but a stepping stone for something major. In a current typical higher education environment, data is scattered between the data center and the desktops, apps are either installed as part of the OS image, pushed out through an ESD solution or in some cases manually installed. VDI will physically detach the end-users from their data and applications and establish the new virtual order.  &lt;/p&gt;
+
+&lt;h4 id=&quot;virtual-order&quot;&gt;Virtual Order&lt;/h4&gt;
+&lt;p&gt;It’s all around us. Look around you again. See that virtual keyboard that the person next to you is typing on? Notice the guy on the table across reading his ‘virtual’ book. Watch the virtual tweets on your &lt;a href=&quot;http://www.layar.com/&quot;&gt;layar&lt;/a&gt; app. Check out those Ray-Bans on that &lt;a href=&quot;http://www.bannerblog.com.au/news/2009/06/35_awesome_augmented_reality_examples.php&quot;&gt;virtual mirror&lt;/a&gt;. VDI is more than virtual desktops. VDI is part of a movement taking place all around us. VDI is part of the movement that aims at virtualizing the workplace. VDI is forcing vendors to improve their ‘remoting’ protocols so that an engineer touring Germany can modify a CAD model being worked on by his co-worker in the US. Virtual Order!&lt;br /&gt;
+&lt;br /&gt;
+Like i said, it’s not about ‘VD’ in VDI and all about the I!&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/from-desks-to-data-centers/&quot;&gt;From Desks to Data Centers&lt;/a&gt; was originally published by Sar Haidar at &lt;a href=&quot;http://localhost:4000&quot;&gt;LaYers&lt;/a&gt; on September 21, 2010.&lt;/p&gt;</content>
+</entry>
+
+
+  
+
+<entry>
+  <title type="html"><![CDATA[Who Is in Charge]]></title>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/who-is-in-charge/" />
+  <id>http://localhost:4000/who-is-in-charge</id>
+  <published>2010-06-27T18:31:00-04:00</published>
+  <updated>2010-06-27T18:31:00-04:00</updated>
+  <author>
+    <name>Sar Haidar</name>
+    <uri>http://localhost:4000</uri>
+    
+  </author>
+  <content type="html">&lt;p&gt;A couple of days ago i wrote about how iPhone 3G users are being told that Apple knows best when it comes to the iOS 4 features that shouldn’t  be allowed to run on an iPhone 3G. I also hinted at the idea of curated computing and how we as end users are willingly giving away control of devices we buy for a promise of a better user experience &lt;a href=&quot;/iphone-and-the-curated-computing-experience/&quot;&gt;(previous post)&lt;/a&gt;.&lt;br /&gt;
+&lt;br /&gt;
+This week, the iPhone 4 came out and a &lt;a href=&quot;http://news.yahoo.com/s/livescience/20100624/sc_livescience/iphone4sfirstusersreportreceptioncolorproblems&quot;&gt;few issues&lt;/a&gt; surfaced once the users got their hands on that new phone. I’m not too concerned about the reported problems, but what i’m truly concerned about is Apple’s initial response, mainly &lt;a href=&quot;http://gizmodo.com/5573680/&quot;&gt;Steve Jobs’ reply&lt;/a&gt; to an email from a concerned customer. What is even more bothersome is the lack of reaction by customers to such a response from Apple.&lt;br /&gt;
+&lt;br /&gt;
+“Just avoid holding it (phone) in that way”&lt;br /&gt;
+&lt;br /&gt;
+I’m a Mac user, i’m writing this on a MacBook Pro, i have an iPhone 3G, i recently bought my mom an iPad … but those recent events have made me question the idea of how much control is too much? How much are we willing to give up for this less complex, more relevant experience?&lt;br /&gt;
+&lt;br /&gt;
+Here are a few examples related to Apple knows best approach:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Apps have to be approved by Apple &lt;/li&gt;
+  &lt;li&gt;Flash isn’t allowed to work (officially it’s stated that this is due to technical reasons, but i think there’s more to that - think &lt;a href=&quot;http://advertising.apple.com/&quot;&gt;iAd&lt;/a&gt;)&lt;/li&gt;
+  &lt;li&gt;Some iOS 4 features are not enabled for iPhone 3G &lt;/li&gt;
+  &lt;li&gt;Instructions on how not to hold the phone&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;You have to give a lot of credit to Apple for making smart phones and tablet PCs devices that everyone’s craving for. In addition, some of the reasoning behind the first two or three points above given by Apple make some sense. Users don’t want to end up with smart phones that act like an error prone Windows box, but do we have to go to such an extreme to achieve this hassle-free experience and where do we draw the line?&lt;br /&gt;
+&lt;br /&gt;
+I think this should make you pause and think how much control is too much? I really enjoy having an iPhone, but i don’t like being told what i can or can’t do with a device that i own, yet it’s starting to feel like this is only the beginning and i’m not just talking about smart phones.&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/who-is-in-charge/&quot;&gt;Who Is in Charge&lt;/a&gt; was originally published by Sar Haidar at &lt;a href=&quot;http://localhost:4000&quot;&gt;LaYers&lt;/a&gt; on June 27, 2010.&lt;/p&gt;</content>
+</entry>
+
+
+  
+
+<entry>
+  <title type="html"><![CDATA[iPhone and the Curated Computing Experience]]></title>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/iphone-and-the-curated-computing-experience/" />
+  <id>http://localhost:4000/iphone-and-the-curated-computing-experience</id>
+  <published>2010-06-21T21:46:00-04:00</published>
+  <updated>2010-06-21T21:46:00-04:00</updated>
+  <author>
+    <name>Sar Haidar</name>
+    <uri>http://localhost:4000</uri>
+    
+  </author>
+  <content type="html">&lt;p&gt;I’m sure you’ve heard by now about the new iOS 4 for the iPhone that was just released today. I’m an owner of an iPhone 3G and had already heard that some features of the new OS will not be available for the 3G phones, but i didn’t give it much thought at the time. Today it suddenly hit me. I’ve had this phone for less than two years (June 29th release date) and here i am “pushed” into buying a new phone to get the latest and greatest. What’s wrong with that picture? Is that the new “standard” for how long you should keep a smartphone for? I’m in the IT profession and understand hardware limitations, but in most cases an OS vendor posts the minimum requirements for their new OS, but doesn’t decide on behalf of their users what’s “good” for them. I wouldn’t mind having some of the new features turned off by default for the 3G phones, but completely non-existent for a phone that’s less than two years old because Apple says so!&lt;br /&gt;
+&lt;br /&gt;
+This really sounds like the perfect example of:
+“&lt;a href=&quot;http://arstechnica.com/gadgets/news/2010/05/curated-computing-whats-next-for-devices-in-a-post-ipad-world.ars&quot;&gt;Curated Computing&lt;/a&gt;: a mode of computing where choice is constrained to deliver less complex, more relevant experiences”.&lt;br /&gt;
+&lt;br /&gt;
+I don’t expect anyone to boycott Apple or the iPhone, but i think that people need to pause and think about this for a minute. I love the hassle-free, easy to use experience that most Apple products provide, but i also value the freedom of choice that we might be slowly giving up for that relevant experience. A good read on this topic is &lt;a href=&quot;http://www.amazon.com/Future-Internet-How-Stop/dp/0300151241/ref=sr_1_1?ie=UTF8&amp;amp;s=books&amp;amp;qid=1277174559&amp;amp;sr=8-1&quot;&gt;“The Future of the Internet”&lt;/a&gt;.&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/iphone-and-the-curated-computing-experience/&quot;&gt;iPhone and the Curated Computing Experience&lt;/a&gt; was originally published by Sar Haidar at &lt;a href=&quot;http://localhost:4000&quot;&gt;LaYers&lt;/a&gt; on June 21, 2010.&lt;/p&gt;</content>
+</entry>
+
+
+  
+
+<entry>
+  <title type="html"><![CDATA[What Is Real]]></title>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/what-is-real/" />
+  <id>http://localhost:4000/what-is-real</id>
+  <published>2010-03-08T11:26:00-05:00</published>
+  <updated>2010-03-08T11:26:00-05:00</updated>
+  <author>
+    <name>Sar Haidar</name>
+    <uri>http://localhost:4000</uri>
+    
+  </author>
+  <content type="html">&lt;p&gt;I woke up the other day thinking about &lt;a href=&quot;http://en.wikipedia.org/wiki/Augmented_reality&quot;&gt;Augmented Reality&lt;/a&gt; and one idea led to another until i had a complete vision. It was one of those moments that u feel like things have finally clicked. It all made sense at that point. If u haven’t heard anything about Augmented Reality or seen any smartphone apps, then click on the link above to catch up. With an existing smartphone app, i can point my phone in the direction i’m heading and it can overlay information about my surroundings. Heard there’s work being done on a similiar app to be used by police that when pointed at a license plate, DMV records are overlayed. I’ve also seen some proof of concepts using &lt;a href=&quot;http://www.designboom.com/weblog/cat/23/view/7473/bmw-augmented-reality-to-help-with-car-repairs.html&quot;&gt;AR in mechanical repairs&lt;/a&gt;. Remember the first Terminator when Arnold would look at someone and he’d have all that data on that person as an additional layer? It’s happening now, but you need a smartphone with the app right now. So, take this one step further and add some glasses or contact lenses that gives u that ability without the use of a smartphone. We don’t seem to mind wearing 3D glasses for the “enhanced” viewing experience, right?&lt;br /&gt;
+&lt;br /&gt;
+So, if cars, humans, phones starts getting embedded with this “new” way of seeing things, advertising would be forced to move in that direction. So, if i have a restaurant, i might stop focusing on the physical sign that i have posted outside the store and move things to the digital world. Naturally this will be advertised as cost cutting, going green and being more efficient. Take this idea one step further. Instead of painting the walls and physically decorating, i’d decorate virtually. I’d even give my loyal customers, as a reward, write access to my interior design and allow them to decorate things the way they’d like. Just like I choose my wallpaper on my desktop and where and how i place shortcuts, i’d grant my customers that ability. If i like someone’s design, i’d make it universally readable! Imagine this then. You and I are both sitting at the same table in this restaurant, yet we’re both experiencing it in a completely different way through our own augmented realities. So close, yet so far away!&lt;br /&gt;
+&lt;br /&gt;
+Would that result in breaking the physical boundaries on some things? If i like some painting that i saw on my last trip to NYC, what’s to stop me from buying the digital design on amazon and have it hanging virtually on my living room wall? What impact will this have on copyright?&lt;br /&gt;
+&lt;br /&gt;
+The question that we’ll be asking ourselves is, what’s real?&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/what-is-real/&quot;&gt;What Is Real&lt;/a&gt; was originally published by Sar Haidar at &lt;a href=&quot;http://localhost:4000&quot;&gt;LaYers&lt;/a&gt; on March 08, 2010.&lt;/p&gt;</content>
+</entry>
+
+
+  
+
+<entry>
+  <title type="html"><![CDATA[Application Virtualization, a Higher Education Reality]]></title>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/application-virtualization-a-higher-education-reality/" />
+  <id>http://localhost:4000/application-virtualization-a-higher-education-reality</id>
+  <published>2010-01-31T16:41:00-05:00</published>
+  <updated>2010-01-31T16:41:00-05:00</updated>
+  <author>
+    <name>Sar Haidar</name>
+    <uri>http://localhost:4000</uri>
+    
+  </author>
+  <content type="html">&lt;p&gt;The enormous amount and diversity of applications found in Higher Education makes managing it quite a feat. Separating the application from its underlying components and viewing things from a layered perspective, there’s the application itself, user workspace, storage, operating system and hardware (Dell, HP, Thin clients like Wyse) to name most of them. Unfortunately all the hype is centered on Virtual Desktop Infrastructure (VDI) and “Green IT” that Managers seem to be convinced that virtualizing their desktop environment would also solve their application layer problems, but would it?  What are the problems affecting traditional software installations? What are the challenges of the “new” model?&lt;/p&gt;
+
+&lt;h4 id=&quot;shortcomings-of-the-traditional-model&quot;&gt;Shortcomings of the “traditional” model&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Application incompatibilities: The more applications installed on a machine, the higher the possibility of application incompatibilities due to varying pre-requisites in some cases. An example would be two different apps requiring different versions of java or one application overwriting a Dynamic Link Library (dll) file used by a previously installed app.&lt;/li&gt;
+  &lt;li&gt;Patching or upgrading apps: Unless the infrastructure is already in place to update or patch the installed apps, reimagining the computers to apply an upgrade is the optimal way. Even with a solution that pushes out updates or patches, a tremendous amount of regression testing is needed before deploying the new image.&lt;/li&gt;
+  &lt;li&gt;Failure to run different versions of the same application: Corporate America might not view this as a major obstacle, but in Higher Education there’s a need to run multiple versions of the same application to ease the transition for users. Running multiple versions of the same application helps in training users on the new version and reaching a certain comfort level before retiring the older version. At times there’s also a need to keep an older version because some of the available textbooks still refer to it.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;what-is-application-virtualization&quot;&gt;What is Application Virtualization?&lt;/h4&gt;
+
+&lt;p&gt;The concept of virtualization can be traced back to the idea of “time sharing” coined by Christopher Strachey in the early 1960s. Strachey was referring to multi-programming where one user would be working on a program while the other would be debugging another program concurrently. Application Virtualization is the abstraction of the underlying layer, the Operating System (OS), and is accomplished by tricking the application into believing that it’s residing and interacting directly with the OS, when in fact it’s running in its own isolated virtual environment.&lt;br /&gt;
+Virtualized applications can run in one of two environments:
+1. Clients machine thus using local resources.
+2. Terminal Server (TS) where processing cycles are provided by the server and the end user establishes a remote session.&lt;/p&gt;
+
+&lt;h4 id=&quot;what-can-application-virtualization-do-for-me&quot;&gt;What can Application Virtualization do for me?&lt;/h4&gt;
+&lt;p&gt;The majority of the problems discussed above regarding the application layer can be resolved through application virtualization. &lt;br /&gt;
+Since the virtualized apps run in their own sandboxed environment, each app “believes” that it’s running on its own in the OS thus application incompatibilities don’t arise. &lt;br /&gt;
+In addition because of this “bubble” environment, each application can be bundled with all its prerequisites thus allowing the end user to run multiple versions of the same software on the same machine. Some institutions used application virtualization to provide Microsoft Office 2003 and 2007 simultaneously. During the fall semester, Office 2003 was setup as the default suite while Office 2007 was available for access to anyone who’s interested. Then in the spring semester, Office 2007 became the default suite while Office 2003 remained for those who still haven’t made the transition. &lt;br /&gt;
+Since applications are locally installed on the computer, upgrading or patching an app becomes a matter of repackaging the app and distributing it to the clients using the means available. SPSS, a statistical application, came out with a critical patch and through application virtualization, the packaged app was upgraded and access to it was quickly provided.&lt;br /&gt;
+Furthermore, the modular/layered approach of decoupling the apps from the OS will allow the IT Manager the freedom of investigating solutions to better manage the other layers without the hassle of trying to find a non-existent solve all type of solution. Based on the vendor and application virtualization solution in place, some of the added benefits are the centralization of software distribution, application usage statistics, license management, and the ability to manage application access and authorization. 
+Prior to application virtualization, one of the major obstacles to Server Based Computing (SBC) is offline use. The majority of the existing application virtualization solutions handle offline use by streaming and caching the application locally or by creating a complete self-encompassed package that can run with no strings attached.&lt;/p&gt;
+
+&lt;h4 id=&quot;application-virtualization-and-its-challenges&quot;&gt;Application Virtualization and its Challenges&lt;/h4&gt;
+&lt;p&gt;Any new system has a learning curve and some shortfalls and application virtualization is no different.   &lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Virtual App, maybe not!&lt;/strong&gt;  &lt;br /&gt;
+Before jumping into application virtualization the main takeaway is that no matter what vendor/solution is chosen, not all applications can be virtualized. Similar to server virtualization where its inadequate in some instances and a physical server might be required, some apps have to be installed and can’t be virtualized. Those are mainly the apps dealing with system level drivers or in some cases COM+ objects. For example, Zoomtext, an Ai Squared product used for screen magnification can’t be virtualized at this point due to its manipulation of the video drivers. Hence, the move to application virtualization will still require maintaining an existing software distribution solution to manage the apps that can’t be virtualized unless the apps can be bundled with the image.  &lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Vendors and license agreements&lt;/strong&gt;  &lt;br /&gt;
+The added benefits of license management, application usage stats and the centralization of application distribution will necessitate a revision of some license agreements and possibly a reduction in the number of licenses in other cases. A good amount of the software vendors either aren’t aware of application virtualization or haven’t adjusted their licensing models to take it into consideration. So, when trying to get the optimal amount of licenses or renegotiating a license agreement, things might get tricky dealing with the vendor. Also, some vendors have different licenses thus pricing to run their software on TS. Hence, when putting a budget together for an application virtualization deployment, its vital to decide what apps will be offered how.  &lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Complexity and training&lt;/strong&gt;&lt;br /&gt;
+&lt;br /&gt;
+End Users&lt;br /&gt;
+If the virtual app is running locally on the end users machine, training is quite minimal or even non-existent. Whether an application is virtual or locally installed, all the average user cares about is whether the app is launched when he/she double clicks on the shortcut. Some training is needed in case a laptop is involved and offline access to an app is required. In that case, the user would need to locally cache the app before going offline.
+If on the other hand the virtual app is hosted on a TS and connecting to a remote session is new to your environment, some training might be needed.&lt;br /&gt;
+&lt;br /&gt;
+IT Admins&lt;br /&gt;
+Based on the size of the institution and the number of applications being virtualized, a full time employee is needed to package the apps and keep things updated. Again based on the purchased solution, new infrastructure will be needed mainly composed of application servers, database server, and management console taking into consideration redundancy and load balancing. Other solutions allow you to create the virtual app and use an existing software distribution solution. In those cases, there’s very minimal overhead to maintain. 
+Personally, the biggest challenge is finding resources and experts on the subject matter, but I have to admit that in the past two years application virtualization adoption has grown tremendously and so has the number of experts and consultants.   &lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Faculty Buy-In&lt;/strong&gt;&lt;br /&gt;
+Apart from the technical challenges, faculty buy-in is key in any successful implementation.  &lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Service Name vs. Product Name&lt;/strong&gt;
+When marketing the project at your institution I recommend not using the product name for the provided service. Vendors get sold, products get renamed and it will create a lot of confusion when the service keeps getting a name change.  &lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Workflow and software ordering&lt;/strong&gt;&lt;br /&gt;
+Application virtualization doesn’t necessarily mean centralizing software distribution but in case that’s the chosen route, then a reevaluation of software ordering, distribution, assignment, updating, and license negotiating processes would need to be adjusted and possibly a new workflow established.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Some Possible Solutions&lt;/strong&gt;&lt;br /&gt;
+&lt;br /&gt;
+The major players in this field in alphabetical order are:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Citrix XenApp&lt;br /&gt;
+XenApp, similar to Microsoft’s App-V is an agent-based solution that offers client and server side application virtualization. In addition, with the new release of XenApp, if an app can’t be virtualized it can be installed on a Virtual Machine (VM) and access to it provided to the end user. In my opinion, that’s a sign of product maturation by accepting the fact that not all apps can be virtualized and providing a solution. Again, similar to App-V, the application is streamed and cached on the client, be it an end user machine or a server thus coping with the offline use dilemma. &lt;br /&gt;
+One of the major complaints Citrix Admins had, were the TS silos. The TS silos were a result of app compatibility and the need to have separate server farms housing different applications, but with the advent of application virtualization, the silo effect has been mitigated. &lt;br /&gt;
+XenApp also provides a SBC component by using a proprietary remote session protocol known as Independent Computing Architecture (ICA).&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Microsoft App-V&lt;br /&gt;
+In July 2007, Microsoft acquired Softricity, a company with a product called Softgrid thus entering the application virtualization market. The current product is known as Microsoft Application Virtualization or App-V for short and is part of Microsoft Desktop Optimization Pack (MDOP) offered through Software Assurance. &lt;br /&gt;
+App-V is an agent-based solution that offers client-side and server-side application virtualization. Once an application is “sequenced” (virtualized) and is assigned to a group of users (assigning an app to a group of computers would require Microsoft’s System Center Configuration Manager), the necessary files needed for the initial app launch can be streamed using the Real Time Streaming Protocol (RTSP) or RTSPS to the end user machine and cached locally. &lt;br /&gt;
+In case of Server Based Computing (SBC) where the App-V client is installed on a TS, the end user would use a web portal to authenticate and launch an application be establishing a remote desktop session to the server.  &lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;VMware ThinApp&lt;br /&gt;
+VMware acquired Thinstall to add application virtualization to its repertoire.
+Unlike XenApp and App-V, ThinApp is an agent-less solution that has an embedded virtual OS along with the packaged app. ThinApp doesn’t have an application streaming or distribution mechanism. The packaged app is self-sufficient and can be pushed out just like any other file. As opposed to XenApp and App-V, ThinApp doesn’t need an infrastructure or an agent, but it doesn’t provide any means to distribute the virtual app. &lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;There are a multitude of vendors operating in the application space and have an entire suite of apps to handle the additional layers (hardware, OS, user workspace, storage) too. Citrix, to name one, has the XenDesktop product for a Virtual Desktop Infrastructure (VDI) solution or Symantec with their suite. So, before jumping on the VDI curve of “inflated expectations”, I suggest that this be treated just like any other major project by assessing the needs, test by virtualizing the main enterprise apps and look into a phased implementation.&lt;br /&gt;
+In conclusion, it’s not a question of virtualizing the apps or not, it’s a question of what solution works best for your environment. &lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/application-virtualization-a-higher-education-reality/&quot;&gt;Application Virtualization, a Higher Education Reality&lt;/a&gt; was originally published by Sar Haidar at &lt;a href=&quot;http://localhost:4000&quot;&gt;LaYers&lt;/a&gt; on January 31, 2010.&lt;/p&gt;</content>
+</entry>
+
+
+  
+
+<entry>
+  <title type="html"><![CDATA[Apple Education Licensing Program]]></title>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/apple-education-licensing-program/" />
+  <id>http://localhost:4000/apple-education-licensing-program</id>
+  <published>2009-12-03T22:10:00-05:00</published>
+  <updated>2009-12-03T22:10:00-05:00</updated>
+  <author>
+    <name>Sar Haidar</name>
+    <uri>http://localhost:4000</uri>
+    
+  </author>
+  <content type="html">&lt;p&gt;I met with our Apple rep who wanted to talk about the new &lt;a href=&quot;http://www.apple.com/education/licensingprogram/&quot;&gt;Apple Education Licensing Program today&lt;/a&gt;. It was good to see Apple start to understand that some changes are needed on their behalf to ease adoption of their products in higher education. The way it works is that a University pays a yearly fee based on the number of Macs they have (will talk about how that number is obtained in a bit) and they’d be covered for the OS, iWork and iLife. To join the program, there’s a one time 10% fee of the total amount. Additionally, AELP covers different software like Final Cut Pro, and in order for Universities to take full advantage of those prices, some of their ordering processes might need to change. It will not be very efficient for each department to keep ordering a 5 or a 10 bundle Final Cut Pro. Software ordering centralization (if that’s not already the case) would be the way to go since it’ll be cheaper to pay for a 100 seat bundle than four 25 seat bundle. The program also has good student discounts in case a University wants to sell some of the software directly to their students. The prices look good but i had a few concerns mainly about the “Mac Software Collection” which is the OS, iWork and iLife. &lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;If I’m buying a new Mac that’s covered under AELP, i don’t get an option of buying the Mac without an OS license. So, in some ways, i’m kinda paying for the OS bundle twice, once when i buy the machine and then when i pay my annual fee. The Apple rep said to look at it more as an OS bundle maintenance fee. The way we do with Dell and Microsoft is that when we order new machines from Dell, we get the machines with the home version of the OS (saves us a bit of money) and our Microsoft Agreement allows us to put the OS Pro version on there. So, a few things to think about before joining the program is whether it’s less costly as opposed to just buying the OS upgrade (there’s a new OS around twice i year i think) and the other bundles if needed when released. The other thing is whether your users need or use iWork and iLife. Personally, i use iLife on my own laptop and not my work iMac and i only use Keynote out of iWork. The general feeling i did get from the Apple rep is that Higher Education will have the option of buying separate packages, but at the end of the day, Apple’s strategy is aiming on getting Higher Ed institutions under the AELP.&lt;/li&gt;
+  &lt;li&gt;Didn’t Microsoft get in trouble for integrating IE with the OS? Granted Apple’s not doing that with iWork or iLife, but by bundling it with the OS as a Software Collection and applying the discount on that bundle, it somewhat feels like it’s being pushed on us.&lt;/li&gt;
+  &lt;li&gt;To join the program, you’d need the number of machines that this program would apply to in order to calculate your cost. So, if you’re planning on covering all your Macs, Apple has a record of all the Mac purchases for the past 4 years and that’s the number they use. I think that’s a pretty fair way of doing things. The other cool thing is that if u add machines throughout the year to your footprint, Apple gives you a 30% (out of the total number of machines currently under AELP) leeway and those can be added to your existing contract the next year.&lt;br /&gt;
+&lt;br /&gt;
+It’s good to see Apple finally start catching up with the other vendors on their licensing model. I’m curious to see how providing iWork as part of the bundle would affect it’s usage.&lt;/li&gt;
+&lt;/ul&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/apple-education-licensing-program/&quot;&gt;Apple Education Licensing Program&lt;/a&gt; was originally published by Sar Haidar at &lt;a href=&quot;http://localhost:4000&quot;&gt;LaYers&lt;/a&gt; on December 03, 2009.&lt;/p&gt;</content>
+</entry>
+
+
+  
+
+<entry>
+  <title type="html"><![CDATA[Virtuality]]></title>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/virtuality/" />
+  <id>http://localhost:4000/virtuality</id>
+  <published>2009-11-30T20:16:00-05:00</published>
+  <updated>2009-11-30T20:16:00-05:00</updated>
+  <author>
+    <name>Sar Haidar</name>
+    <uri>http://localhost:4000</uri>
+    
+  </author>
+  <content type="html">&lt;p&gt;While at an IT Conf in Fall Creek Falls and at the recent Educause Conf in Denver, there were a lot of sessions on Second Life and i was curious enough to attend one just to see what Higher Ed is trying to accomplish through it. A couple of years back, i created an account to check out Second Life out just to see what all the buzz was about. I never wrote down what i thought but at some point i had a tweet that said:&lt;br /&gt;
+&lt;br /&gt;
+“Feels like the virtual is integrating with the real. So why spend time building a virtual world”&lt;br /&gt;
+&lt;br /&gt;
+I woke up today thinking about it for some reason (think it was all that time spent on Modern Warfare 2 and how realistic the maps looked) and while surfing on slashdot and i found the proper wording: &lt;a href=&quot;http://en.wikipedia.org/wiki/Augmented_reality&quot;&gt;Augmented Reality&lt;/a&gt; . The idea is about adding virtual objects to our reality thus augmenting it. That’s been my argument against Second Life and its supporters. We don’t gain anything by building a virtual world based on the real world. Why do i need to see some virtual campus when i could get on google and see the real campus? With AR (Augmented Reality) you’d have an extra layer on top of the real. So, i think the next challenge would be who controls that new “virtuality”?&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/virtuality/&quot;&gt;Virtuality&lt;/a&gt; was originally published by Sar Haidar at &lt;a href=&quot;http://localhost:4000&quot;&gt;LaYers&lt;/a&gt; on November 30, 2009.&lt;/p&gt;</content>
+</entry>
+
+
+  
+
+<entry>
+  <title type="html"><![CDATA[Federation and VDI]]></title>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/federation-and-vdi/" />
+  <id>http://localhost:4000/federation-and-vdi</id>
+  <published>2009-11-08T19:24:00-05:00</published>
+  <updated>2009-11-08T19:24:00-05:00</updated>
+  <author>
+    <name>Sar Haidar</name>
+    <uri>http://localhost:4000</uri>
+    
+  </author>
+  <content type="html">&lt;p&gt;Spent the week in Denver for &lt;a href=&quot;http://www.educause.edu/E2009&quot;&gt;Educause 2009&lt;/a&gt;. First time i’ve been to either Denver or to the main Educause conference. Everything is getting a Virtual or Cloud computing label. It’s kinda sad to see higher education jump on the “Cloud Computing” bandwagon. You’d think as Higher Ed Institutions, they’d correct things rather become part of the &lt;a href=&quot;http://en.wikipedia.org/wiki/Hype_cycle&quot;&gt;hype cycle&lt;/a&gt;. That being said, here are a couple of observations:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;A lot of schools are looking at VDI (virtual desktop infrastructure), but what they fail to understand is that VDI doesn’t solve the application layer where most of their problems reside. VDI doesn’t enable them to centralize software distribution. A VDI solution might make it easier to develop an application virtualization solution, but it’s still a separate layer that needs to be dealt with down the line. So, to me it feels like a lot of the Higher Education institutions are riding the wave of “Inflated Expectations” when it comes to VDI and its role.&lt;br /&gt;
+&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;Federation! This is a time when universities are looking outward and trying to find means to collaborate with other institutions. The problem they’re dealing with is identity management. If i attend a certain university (A) who has an agreement with university (B) to share library resources for example, how can university (B) know that i belong to university (A)? The framework &lt;a href=&quot;http://www.incommonfederation.org/&quot;&gt;(InCommon)&lt;/a&gt; and the technology are already in place and more schools are joining the federation. I think this will open up the possibilities of “richer” institutions hosting or even providing services to smaller institutions thus turning some institutions to service providers. In addition, this would force vendors that already provide hosted or “cloud” services to be part of InCommon to gain Higher Ed business. I attended a &lt;a href=&quot;http://www.educause.edu/E09+Hybrid/EDUCAUSE2009FacetoFaceConferen/Seminar13AIdentityManagementfo/176005&quot;&gt;session&lt;/a&gt; that discussed InCommon and federation, but some of the repercussions of the future of a federated system(s) wasn’t mentioned. What do i mean? I think federation would establish multiple federated systems made of numerous colleges and universities. Each “federation” would have its own rules and standards for joining and each institution interested and membership would need to add/improve the federation since there’s no point in duplicating efforts. This would mean that the smaller or the less fortunate general degree providing colleges would wither away cause they would not be able to compete with the federated systems. Hence, if u’re in the teaching business, you need to work on distinguishing yourself otherwise you will not survive.&lt;/li&gt;
+&lt;/ul&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/federation-and-vdi/&quot;&gt;Federation and VDI&lt;/a&gt; was originally published by Sar Haidar at &lt;a href=&quot;http://localhost:4000&quot;&gt;LaYers&lt;/a&gt; on November 08, 2009.&lt;/p&gt;</content>
+</entry>
+
+
+  
+
+<entry>
+  <title type="html"><![CDATA[Why Softgrid/App-V]]></title>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/why-softgrid-app-v/" />
+  <id>http://localhost:4000/why-softgrid-app-v</id>
+  <published>2008-09-14T16:31:00-04:00</published>
+  <updated>2008-09-14T16:31:00-04:00</updated>
+  <author>
+    <name>Sar Haidar</name>
+    <uri>http://localhost:4000</uri>
+    
+  </author>
+  <content type="html">&lt;p&gt;When i first got my job, i was helping out building images for the computer labs across campus. I remember all those long August hours testing things and finding out last minute that something wasn’t working right and having to re-ghost the machine to add some icon to the default user profile. Or being almost done with the image, only to find out that there’s a new Java update that just came up a couple of hours ago. I don’t know how we finally made it, but we did as best as we could. We were running on a Novell network using Zenworks to push out some of the software while the rest was locally installed and part of the image. We were at a crossroads though. The version of Novell we were running was unsupported and i also started thinking about August of next year. I honestly didn’t want to go through this nightmare again. We started looking at some solutions for the following problems:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;How to keep the software up-to-date?&lt;/li&gt;
+  &lt;li&gt;How do you update a license for an installed program when the image has already been pushed out?&lt;/li&gt;
+  &lt;li&gt;Image bloat.&lt;/li&gt;
+  &lt;li&gt;Software usage reporting.&lt;/li&gt;
+  &lt;li&gt;Software conflict and running multiple version of the same software.&lt;/li&gt;
+  &lt;li&gt;Integration with the campus Active Directory implementation.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The Softricity guys happened to be in town and gave us a demo of what Softgrid is all about. It was very intriguing and also made us think about the ability of offering students access to software from anywhere. At the time, Softricity had an add-on called ZeroTouch that pretty much ran a Windows Terminal Server running the Softgrid client in the back-end and a nice front-end for user access. My co-worker had also looked at Citrix the year before and even though he seemed to like that solution, it was quite expensive and didn’t getting any backing from IT. In addition, the way the University budget works, allocating the money to buy servers to support the Citrix environment rather than spending it on lab computers would’ve needed a major adjustment in operations and no one was ready for that. I will probably have some post later on about this whole process.
+We got our hands on the trial software and set up a small environment just to see the possibilities and how it all works. Nothing against sales people, but i have not met a single sales person who has not told me that their software can either do it or they always welcome client suggestions and will be willing to possibly add some of the requested features. Since that’s the case, i needed to play around the software and figure out some of the limitations, cause that’s definitely one of the main things that you can’t get from the sales people. What limitations did we experience with Softgrid:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Not everything can be sequenced.
+At the time, Softricity was kinda new and googling stuff didn’t really help out. We were told though, that anything dealing with drivers will not work. Nowadays, information and recipes all over the place. Here’s a good one on &lt;a href=&quot;http://blogs.technet.com/softgrid/archive/2007/09/27/list-of-applications-that-can-be-virtualized.aspx&quot;&gt;what can and can’t be sequenced&lt;/a&gt;. &lt;/li&gt;
+  &lt;li&gt;Applications can’t be assigned to a computer.
+We had some limited licenses for certain software (if i remember right, ArcGIS was one of them). In our old way of doing things, after ghosting the computers in a certain lab with the main image, we’d locally install the software that we have limited licenses for (ex. ArcGIS). This created some problems, since we’d have to test and make sure that adding this software didn’t break any of the other stuff. At times, we were able to use Novell Zenworks to push it out. Zenworks had the ability of assigning an application to computers. When we asked the Softricity folks about that ability, we got the sales pitch of them looking into adding it as a feature in their next release. We kinda had hope at first since Softricity was quite a small company at the time, but that hope died as soon as they were bought out by Microsoft. Microsoft’s answer to our question was to use SMS which we weren’t really interested in. &lt;/li&gt;
+  &lt;li&gt;Some programs tie their licenses to the MAC address of the machine. 
+In some cases you can change the licensing agreement and maybe set up a license server to handle things.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Even though we had those limitations, we liked what we saw and the potential of it. In future posts, i will break down our implementation in the different phases and talk about what we came across and how we dealt with some of the issues that came about. After this trial, we ended up heading to Boston for official Softgrid training. It was my first visit to Boston and i loved it. Eventhough it was a bit colder than what i’m used to, just walking around MIT, Harvard, Boston College … makes you feel pretty good. Training was hands on. Most of the people in class were Citrix people trying to cut down on the number of silos in their farms. We also met with some of the tech folks at a University in Boston who had already implemented Softgrid in their labs and appeared to be very pleased about it. If you haven’t read my previous post, the main idea behind this blog sorta came about from that visit. It astonished me to hear them talk. Even though, it was a completely different city, different university, the environments are very similar. The software they use, the computers in the labs, student needs, faculty needs, the politics …. That meeting made us feel even more comfortable about our decision to go with Softgrid having seen and talked to someone who faced similar challenges as us. Fast forward a couple of months when we had a bit of a scare right before August though when we heard the news about Microsoft purchasing Softricity. We just weren’t really sure where Microsoft was heading with this product, but we got some assurances from our rep and by reading some of the comments about the purchase, it felt like Microsoft is serious about getting into that market. August rolled over and the journey had started. In my next post, i will be talking about our phased implementation.&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/why-softgrid-app-v/&quot;&gt;Why Softgrid/App-V&lt;/a&gt; was originally published by Sar Haidar at &lt;a href=&quot;http://localhost:4000&quot;&gt;LaYers&lt;/a&gt; on September 14, 2008.&lt;/p&gt;</content>
+</entry>
+
+
+  
+
+<entry>
+  <title type="html"><![CDATA[Software Anywhere Anytime]]></title>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/software-anywhere-anytime/" />
+  <id>http://localhost:4000/software-anywhere-anytime</id>
+  <published>2008-09-10T18:06:00-04:00</published>
+  <updated>2008-09-10T18:06:00-04:00</updated>
+  <author>
+    <name>Sar Haidar</name>
+    <uri>http://localhost:4000</uri>
+    
+  </author>
+  <content type="html">&lt;p&gt;I work at a University managing labs and a lot of random projects to make the student experience the best it can be. A couple of years back we started a project labeled “Software Anywhere Anytime” in which the end result would be providing some software to students anywhere they might be (on or off-campus) and at anytime. Before getting to this point though, we also needed to improve how we image and distribute software to all our lab machines. After evaluating the options, we decided to go with a product called Softgrid from a small company in Boston called Softricity. Eventually this company was bought out by Microsoft and the new Softgrid name is App-V. &lt;br /&gt;
+In addition to Softgrid we use some other software to manage our labs like Deepfreeze by Faronics and software for printing ….&lt;br /&gt;
+&lt;br /&gt;
+What’s this blog gonna be about?&lt;br /&gt;
+&lt;br /&gt;
+A lot of times my co-workers and i find ourselves thinking: “What are other colleges doing to handle this? How is this university dealing with that?” I’d like to have this type of discussion here. When we went to Softgrid training, we met with some college folks that had already implemented Softgrid and it was great talking to them cause we realized how similar the environments are. They dealt with a lot of the same software, ran into the same problems …. After hearing their point of view on Softgrid, we felt a lot more confident going forward with our implementation.&lt;br /&gt;
+&lt;br /&gt;
+That’s the point of this blog. This is my very first blog by the way. I will be posting things that i think would be good to share and some random ramblings or ideas that we’re thinking about. Feel free to leave me any comments.&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/software-anywhere-anytime/&quot;&gt;Software Anywhere Anytime&lt;/a&gt; was originally published by Sar Haidar at &lt;a href=&quot;http://localhost:4000&quot;&gt;LaYers&lt;/a&gt; on September 10, 2008.&lt;/p&gt;</content>
+</entry>
+
+</feed>

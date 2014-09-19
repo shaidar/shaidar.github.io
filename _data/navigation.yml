@@ -1,0 +1,10 @@
+# Site navigation links
+
+- title: Blog
+  url: /posts/
+
+- title: DataViz
+  url: /dataviz/
+
+- title: About
+  url: /about/

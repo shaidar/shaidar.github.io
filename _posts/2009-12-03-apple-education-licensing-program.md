@@ -1,0 +1,18 @@
+---
+layout: post
+title: "Apple Education Licensing Program"
+modified:
+categories: 
+excerpt:
+tags: [Apple, Higher Education, Enterprise]
+image:
+  feature:
+date: 2009-12-03T23:10:00-04:00
+---
+I met with our Apple rep who wanted to talk about the new [Apple Education Licensing Program today](http://www.apple.com/education/licensingprogram/). It was good to see Apple start to understand that some changes are needed on their behalf to ease adoption of their products in higher education. The way it works is that a University pays a yearly fee based on the number of Macs they have (will talk about how that number is obtained in a bit) and they'd be covered for the OS, iWork and iLife. To join the program, there's a one time 10% fee of the total amount. Additionally, AELP covers different software like Final Cut Pro, and in order for Universities to take full advantage of those prices, some of their ordering processes might need to change. It will not be very efficient for each department to keep ordering a 5 or a 10 bundle Final Cut Pro. Software ordering centralization (if that's not already the case) would be the way to go since it'll be cheaper to pay for a 100 seat bundle than four 25 seat bundle. The program also has good student discounts in case a University wants to sell some of the software directly to their students. The prices look good but i had a few concerns mainly about the "Mac Software Collection" which is the OS, iWork and iLife. 
+
+* If I'm buying a new Mac that's covered under AELP, i don't get an option of buying the Mac without an OS license. So, in some ways, i'm kinda paying for the OS bundle twice, once when i buy the machine and then when i pay my annual fee. The Apple rep said to look at it more as an OS bundle maintenance fee. The way we do with Dell and Microsoft is that when we order new machines from Dell, we get the machines with the home version of the OS (saves us a bit of money) and our Microsoft Agreement allows us to put the OS Pro version on there. So, a few things to think about before joining the program is whether it's less costly as opposed to just buying the OS upgrade (there's a new OS around twice i year i think) and the other bundles if needed when released. The other thing is whether your users need or use iWork and iLife. Personally, i use iLife on my own laptop and not my work iMac and i only use Keynote out of iWork. The general feeling i did get from the Apple rep is that Higher Education will have the option of buying separate packages, but at the end of the day, Apple's strategy is aiming on getting Higher Ed institutions under the AELP.
+* Didn't Microsoft get in trouble for integrating IE with the OS? Granted Apple's not doing that with iWork or iLife, but by bundling it with the OS as a Software Collection and applying the discount on that bundle, it somewhat feels like it's being pushed on us.
+* To join the program, you'd need the number of machines that this program would apply to in order to calculate your cost. So, if you're planning on covering all your Macs, Apple has a record of all the Mac purchases for the past 4 years and that's the number they use. I think that's a pretty fair way of doing things. The other cool thing is that if u add machines throughout the year to your footprint, Apple gives you a 30% (out of the total number of machines currently under AELP) leeway and those can be added to your existing contract the next year.  
+<br>
+It's good to see Apple finally start catching up with the other vendors on their licensing model. I'm curious to see how providing iWork as part of the bundle would affect it's usage.

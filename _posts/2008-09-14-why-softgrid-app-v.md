@@ -1,0 +1,32 @@
+---
+layout: post
+title: "Why Softgrid/App-V"
+modified:
+categories: 
+excerpt:
+tags: [Softricity, IT Higher Education, AppV, Citrix, VDI]
+image:
+  feature:
+date: 2008-09-14T16:31:00-04:00
+---
+
+When i first got my job, i was helping out building images for the computer labs across campus. I remember all those long August hours testing things and finding out last minute that something wasn't working right and having to re-ghost the machine to add some icon to the default user profile. Or being almost done with the image, only to find out that there's a new Java update that just came up a couple of hours ago. I don't know how we finally made it, but we did as best as we could. We were running on a Novell network using Zenworks to push out some of the software while the rest was locally installed and part of the image. We were at a crossroads though. The version of Novell we were running was unsupported and i also started thinking about August of next year. I honestly didn't want to go through this nightmare again. We started looking at some solutions for the following problems:
+
+- How to keep the software up-to-date?
+- How do you update a license for an installed program when the image has already been pushed out?
+- Image bloat.
+- Software usage reporting.
+- Software conflict and running multiple version of the same software.
+- Integration with the campus Active Directory implementation.
+
+The Softricity guys happened to be in town and gave us a demo of what Softgrid is all about. It was very intriguing and also made us think about the ability of offering students access to software from anywhere. At the time, Softricity had an add-on called ZeroTouch that pretty much ran a Windows Terminal Server running the Softgrid client in the back-end and a nice front-end for user access. My co-worker had also looked at Citrix the year before and even though he seemed to like that solution, it was quite expensive and didn't getting any backing from IT. In addition, the way the University budget works, allocating the money to buy servers to support the Citrix environment rather than spending it on lab computers would've needed a major adjustment in operations and no one was ready for that. I will probably have some post later on about this whole process.
+We got our hands on the trial software and set up a small environment just to see the possibilities and how it all works. Nothing against sales people, but i have not met a single sales person who has not told me that their software can either do it or they always welcome client suggestions and will be willing to possibly add some of the requested features. Since that's the case, i needed to play around the software and figure out some of the limitations, cause that's definitely one of the main things that you can't get from the sales people. What limitations did we experience with Softgrid:
+
+- Not everything can be sequenced.
+At the time, Softricity was kinda new and googling stuff didn't really help out. We were told though, that anything dealing with drivers will not work. Nowadays, information and recipes all over the place. Here's a good one on [what can and can't be sequenced](http://blogs.technet.com/softgrid/archive/2007/09/27/list-of-applications-that-can-be-virtualized.aspx). 
+- Applications can't be assigned to a computer.
+We had some limited licenses for certain software (if i remember right, ArcGIS was one of them). In our old way of doing things, after ghosting the computers in a certain lab with the main image, we'd locally install the software that we have limited licenses for (ex. ArcGIS). This created some problems, since we'd have to test and make sure that adding this software didn't break any of the other stuff. At times, we were able to use Novell Zenworks to push it out. Zenworks had the ability of assigning an application to computers. When we asked the Softricity folks about that ability, we got the sales pitch of them looking into adding it as a feature in their next release. We kinda had hope at first since Softricity was quite a small company at the time, but that hope died as soon as they were bought out by Microsoft. Microsoft's answer to our question was to use SMS which we weren't really interested in. 
+- Some programs tie their licenses to the MAC address of the machine. 
+In some cases you can change the licensing agreement and maybe set up a license server to handle things.
+
+Even though we had those limitations, we liked what we saw and the potential of it. In future posts, i will break down our implementation in the different phases and talk about what we came across and how we dealt with some of the issues that came about. After this trial, we ended up heading to Boston for official Softgrid training. It was my first visit to Boston and i loved it. Eventhough it was a bit colder than what i'm used to, just walking around MIT, Harvard, Boston College ... makes you feel pretty good. Training was hands on. Most of the people in class were Citrix people trying to cut down on the number of silos in their farms. We also met with some of the tech folks at a University in Boston who had already implemented Softgrid in their labs and appeared to be very pleased about it. If you haven't read my previous post, the main idea behind this blog sorta came about from that visit. It astonished me to hear them talk. Even though, it was a completely different city, different university, the environments are very similar. The software they use, the computers in the labs, student needs, faculty needs, the politics .... That meeting made us feel even more comfortable about our decision to go with Softgrid having seen and talked to someone who faced similar challenges as us. Fast forward a couple of months when we had a bit of a scare right before August though when we heard the news about Microsoft purchasing Softricity. We just weren't really sure where Microsoft was heading with this product, but we got some assurances from our rep and by reading some of the comments about the purchase, it felt like Microsoft is serious about getting into that market. August rolled over and the journey had started. In my next post, i will be talking about our phased implementation.
